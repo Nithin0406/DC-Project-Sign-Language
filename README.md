@@ -1,8 +1,6 @@
 # SignWave
 
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE.md)
-![GitHub repo size](https://img.shields.io/github/repo-size/tan-ad/SignWave)
-![JamHacks7](https://img.shields.io/badge/event-JAMHacks%207-blueviolet)
+
 
 An easy-to-use program that transcribes text or audio files into a sign language animation.
 
@@ -71,15 +69,11 @@ We used OpenAI's [Whisper API](https://openai.com/research/whisper) to recognize
 * Using [three.js](https://threejs.org/) to animate the set of points
 * Using HTML, CSS, JS, and Git to create a website and repository
 
-## What's next for SignWave
+## What's next for Handspeak
 * Adding sliders to allow users to control animation speed
 * Creating a model with more humanoid hands
 * Implementing a reverse translation function of ASL to English by using computer recognition and Machine Learning
 * Expanding it into commercial uses (eg. transcribing university lectures for deaf or hard-of-hearing students, captioning for TV shows, etc)
 * We're excited to see where SignWave can go in the future 👋
 
-## Contact us
-* Andrew Gordienko (gordienko.adg@gmail.com)
-* Julian Zhang (juleoan123@gmail.com)
-* Rally Lin (linrally@gmail.com)
-* Adrian Tang (tanad@utschools.ca)
+
