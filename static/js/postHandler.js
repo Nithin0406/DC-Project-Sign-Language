@@ -3,7 +3,7 @@ $(function(){
         e.preventDefault(); 
         var formData = new FormData($(this)[0]); //extracting the file data 
  
-        $.ajax({ //ajax sending a post request to the flask server
+        $.ajax({ //Ajax sending a post request to the flask server
             url: "/",
             data: formData,
             type: 'POST',
