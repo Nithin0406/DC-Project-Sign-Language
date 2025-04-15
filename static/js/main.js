@@ -5,7 +5,7 @@ var label = document.getElementById("label")
 var container = document.getElementById("container");
 const fov = 75;
 const aspect = container.clientWidth / container.clientHeight;
-const near = 0.1;
+const near = 0.01;
 const far = 1000;
 
 const scene = new THREE.Scene();
