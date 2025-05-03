@@ -25,7 +25,7 @@ Requirements:
 Instructions:
 1. Clone the repository
 ```
-$ git clone https://github.com/tan-ad/SignWave.git
+$ git clone https://github.com/Nithin0406/SignWave.git
 ```
 3. Set up Python virtual environment  
 ```
